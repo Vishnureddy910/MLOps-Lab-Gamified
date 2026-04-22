@@ -8,11 +8,7 @@
 
 students:
   # Example entries - replace with your actual class
-  - urmsandeep          # instructor (for testing)
-  # - alice-ml
-  # - bob-dev
-  # - priya-codes
-  # - ravi-ai
+  - urmsandeep
+  - urmsandeep-test-01
   #
   # Add student usernames here, one per line, with a leading dash.
-  # Students add themselves via Pull Request on day 1.
